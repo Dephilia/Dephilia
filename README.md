@@ -6,7 +6,7 @@
 
 Producer.
 
-![kuroi](kuroi.jpeg)
+![kuroi](https://github.com/Dephilia/Dephilia/raw/master/kuroi.jpeg)
 
 - Study in NTHU, Power Mechanical Engineering
 - Some AI, some algorithm
