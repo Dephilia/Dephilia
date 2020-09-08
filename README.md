@@ -40,7 +40,7 @@ Producer.
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dephilia&show_icons=true&theme=radical" />
+  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dephilia&show_icons=true&theme=radical" />
 
 </details>
 
