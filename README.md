@@ -12,9 +12,10 @@ Producer.
 - Some AI, some algorithm
 - Vim user <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg"  />
 
-### Find me by
+### Find me
 <a href="https://twitter.com/Dephilia_music"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  /></a>
 <a href="https://www.plurk.com/Dephillia"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/plurk.svg" /></a>
+<a href="mailto:me@dephilia.moe"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" /></a>
 
 ### Languages (Top is the most goot at)
 
