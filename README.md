@@ -9,7 +9,7 @@ Producer.
 ![kuroi](https://github.com/Dephilia/Dephilia/raw/master/kuroi.jpeg)
 
 - Study in NTHU, Power Mechanical Engineering
-- Some AI, some algorithm
+- Some AI (GA), some algorithm (computer vision, etc.)
 - Vim user <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg"  />
 
 ### Find me
