@@ -1,14 +1,6 @@
 ### Hi there, I'm [Dephilia][website] 👋
 
-My CV [HERE](https://www.dephilia.moe/resume/resume.pdf).
-
-- Complete my bachelor and master in NTHU, Power Mechanical Engineering
-- Some AI (GA), some algorithm (computer vision, etc.)
-- Work in MediaTek Inc.
-- Vim user <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg"  />
-
-### Find me
-<a href="mailto:me@dephilia.moe"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" /></a>
+My CV [HERE](https://www.dephilia.moe/files/Resume.pdf).
 
 ### Languages
 
